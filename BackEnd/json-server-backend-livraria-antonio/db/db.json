@@ -1,0 +1,36 @@
+{
+  "categorias": [
+    {
+      "nome": "Ação ",
+      "id": 1
+    }
+  ],
+  "editoras": [
+    {
+      "nome": "audiobook",
+      "id": 1
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Harry",
+      "id": 1
+    }
+  ],
+  "livros": [
+    {
+      "autorId": 1,
+      "editoraId": 1,
+      "categoriaId": 1,
+      "nome": "Estranho Mundo",
+      "id": 1
+    },
+    {
+      "nome": "assa",
+      "categoriaId": 1,
+      "editoraId": 1,
+      "autorId": 1,
+      "id": 2
+    }
+  ]
+}
